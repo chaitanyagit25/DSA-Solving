@@ -25,7 +25,7 @@ class Solution {
                 }
             }
             else {
-                ans += value[s[i = s.size()-1]];
+                ans += value[s[s.size()-1]];
             }
 
         }
